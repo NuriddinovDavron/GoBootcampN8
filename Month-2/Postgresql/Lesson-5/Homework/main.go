@@ -3,7 +3,6 @@ package main
 import (
 	"database/sql"
 	"fmt"
-
 	"github.com/k0kubun/pp"
 	_ "github.com/lib/pq"
 )
